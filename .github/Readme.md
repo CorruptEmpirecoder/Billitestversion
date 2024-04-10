@@ -1,10 +1,10 @@
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Billitestversion/count.svg" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞+𝐗++𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+𝐁𝐢𝐥𝐥𝐢 𝐔𝐬𝐞𝐫𝐁𝐨𝐭+❤🐈✨+%E2%9D%A4%EF%B8%8F">
   
 
 
@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄-𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓</h1>
 
-![20240201_185316](https://github.com/Japanese-Userbots/Japanese-X-Userbot/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
+![20240201_185316](https://github.com/corruptempirecoder/billitestversion/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
 
 <p align="center">
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/stargazers"><img src="https://img.shields.io/github/stars/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -30,7 +30,7 @@
 
 ✧ 𝑶𝒘𝒏𝒆𝒓 𝑰𝒅
 
-✧ 𝑶𝒘𝒏𝒆𝒓 𝑵𝒂𝒎𝒆
+✧ 𝑶𝒘𝒏𝒆𝒓 𝑵𝒂𝒎𝒆           
 
 ✧𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏
 
